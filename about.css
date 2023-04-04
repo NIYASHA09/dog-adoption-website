@@ -1,0 +1,67 @@
+body {
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://thumbs.dreamstime.com/b/dog-love-rose-valentines-jack-russell-sticking-out-tongue-lying-bed-full-petals-as-background-day-wearing-78523443.jpg");
+	background-size: 1600px 900px;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #070707;
+	color: #fff;
+	padding: 28px;
+}
+
+nav {
+	float: right;
+	margin-top: 10px;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block;
+	margin-left: 40px;
+}
+
+nav a {
+	color: #e9edf0;
+	text-decoration: none;
+}
+
+main {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+	margin: 80px auto 100px 250px;
+}
+
+
+section {
+
+	margin-bottom: 50px;
+}
+div.register{
+    background-color: rgba(253, 248, 248, 0.5);
+    width: 1000px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 1px soid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px
+    rgba (0,0,0,0.3);
+    color: #000000;
+}
+h1, h2 {
+	margin-top: 0;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 30px;
+}
